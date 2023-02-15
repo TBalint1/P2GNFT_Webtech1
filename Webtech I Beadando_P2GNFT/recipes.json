@@ -1,0 +1,59 @@
+{
+    "recipes": [
+        {
+            "nev": "Somlói Galuska",
+            "hozzvalok": [
+                "30 dkg liszt",
+                "15 dkg cukor",
+                "5 tojás",
+                "1 púpos teáskanál sütőpor",
+                "1 csipet só"
+            ],
+            "elkeszites": [
+                "A tojásokat a cukorral habosra keverjük, hozzáadjuk a lisztet, a sütőport és a sót.",
+                "A tésztát egy 28 cm átmérőjű, lisztezett tortaformában sütjük 180 fokos sütőben 30 percig.",
+                "A meleg piskótát 4 egyenlő részre vágjuk, az alsó rétegre tegyük a pudingot, rátesszük a második réteget, megint pudingot teszünk rá és így tovább a negyedik rétegig.",
+                "A torta tetejét és oldalát is pudinggal kenjük be, és a tetejét kakaóporral meghintjük."
+            ]
+        },
+        {
+            "nev": "Marhapörkölt",
+            "hozzvalok": [
+                "30 dkg liszt",
+                "15 dkg cukor",
+                "5 tojás",
+                "1 púpos teáskanál sütőpor",
+                "1 csipet só"
+            ],
+            "elkeszites": [
+                "A tojásokat a cukorral habosra keverjük, hozzáadjuk a lisztet, a sütőport és a sót.",
+                "A tésztát egy 28 cm átmérőjű, lisztezett tortaformában sütjük 180 fokos sütőben 30 percig.",
+                "A meleg piskótát 4 egyenlő részre vágjuk, az alsó rétegre tegyük a pudingot, rátesszük a második réteget, megint pudingot teszünk rá és így tovább a negyedik rétegig.",
+                "A torta tetejét és oldalát is pudinggal kenjük be, és a tetejét kakaóporral meghintjük."
+            ]
+        },
+        {
+            "nev": "Spagetti",
+            "hozzvalok": [
+                "400 g spagetti",
+                "1 nagy fej vöröshagyma",
+                "3 gerezd fokhagyma",
+                "1 nagy csomag paradicsom",
+                "1 teáskanál cukor",
+                "só",
+                "bors",
+                "olaj",
+                "bazsalikom"
+            ],
+            "elkeszites": [
+                "A vöröshagymát és a fokhagymát apróra vágd.",
+                "Az olajat egy serpenyőben melegítsd fel és pirítsd meg a hagymát és a fokhagymát.",
+                "Adj hozzá paradicsomot és fűszerezd cukorral, sóval, borssal és bazsalikommal.",
+                "Főzd puhára a paradicsomot kb. 20 perc alatt.",
+                "Főzd meg a spagettit al dente állagban.",
+                "Szűrd le a spagettit és keverd össze a paradicsomos mártással.",
+                "Tálald és élvezd az ízletes spagetti élményt!"
+            ]
+        }
+    ]
+}

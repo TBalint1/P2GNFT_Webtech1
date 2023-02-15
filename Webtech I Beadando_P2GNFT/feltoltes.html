@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Recept feltöltése</title>
+    <link rel='stylesheet' href='./main2.css' />
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="validate.js"></script>
+</head>
+
+<body>
+    <div id='content'>
+        <header>
+            <a href='./index.html'><img src='logo.png'></a>
+            <nav id='menu-bar'>
+                <table>
+                    <td><a href='./receptek.html'>Receptek</a></td>
+                    <td><a href='./feltoltes.html'>Recept feltöltése</a></td>
+                    <td><a href='https://www.iit.uni-miskolc.hu/'>External link</a></td>
+                </table>
+            </nav>
+        </header>
+
+
+        <main>
+            <form id='recipeForm' action="/" onsubmit='validateForm()'>
+                <label for='recipeName'>Étel neve:</label>
+                <input type='text' id='recipeName' name='recipeName' />
+                <br><br>
+                <label for='recipeImage'>Étel képe:</label>
+                <input type='file' id='recipeImage' name='recipeImage' accept='image/*' />
+                <br><br>
+                <label for='recipeIngredients'>Hozzávalók:</label>
+                <textarea id='recipeIngredients' name='recipeIngredients' rows='5' cols='40'></textarea>
+                <br><br>
+                <label for='recipeInstructions'>Elkészítés:</label>
+                <textarea id='recipeInstructions' name='recipeInstructions' rows='5' cols='40'></textarea>
+                <br><br>
+                <input type='submit' value='Recept feltöltése' />
+            </form>
+        </main>
+    </div>
+
+</body>
+
+</html>
